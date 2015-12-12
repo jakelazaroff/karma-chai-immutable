@@ -1,13 +1,15 @@
 karma-chai
 ==========
 
-Makes the [chai-immutable](https://github.com/astorije/chai-immutable) adapter for [Chai](http://chaijs.com) and [Immutable](https://facebook.github.io/immutable-js/) available in karma [Karma](http://karma-runner.github.io)
+Makes the [chai-immutable](https://github.com/astorije/chai-immutable) adapter for [Chai](http://chaijs.com) and [Immutable](https://facebook.github.io/immutable-js/) available in [Karma](http://karma-runner.github.io)
 
 Installation
 ------------
 
+**Note:** there is a bug in `chai-immutable` that prevents it from working with karma. I've created a fork that you can use until it's fixed: https://github.com/jakelazaroff/chai-immutable
+
 ```sh
-$ npm install chai-immutable karma-chai-immutable --save-dev
+$ npm install karma-chai-immutable --save-dev
 ```
 
 Add `chai-immutable` to the `frameworks` key in your Karma configuration:
