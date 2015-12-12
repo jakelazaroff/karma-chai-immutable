@@ -1,0 +1,21 @@
+{
+  "name": "karma-chai-immutable",
+  "version": "1.0.0",
+  "description": "Chai and Immutable for Karma",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jakelazaroff/karma-chai-immutable.git"
+  },
+  "keywords": [
+    "karma",
+    "chai",
+    "immutable"
+  ],
+  "author": "Jake Lazaroff <yo@jake.nyc> (http://jakelazaroff.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakelazaroff/karma-chai-immutable/issues"
+  },
+  "homepage": "https://github.com/jakelazaroff/karma-chai-immutable#readme"
+}
