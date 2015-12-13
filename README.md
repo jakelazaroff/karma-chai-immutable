@@ -49,3 +49,8 @@ describe('chai-immutable', function () {
 ```
 
 See [chai-immutable](https://github.com/astorije/chai-immutable) for full documentation.
+
+Thanks
+------
+
+Cheers to [chai-immutable](https://github.com/astorije/chai-immutable) and [karma](https://github.com/karma-runner/karma)!
