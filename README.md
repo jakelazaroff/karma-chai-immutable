@@ -6,8 +6,6 @@ Makes the [chai-immutable](https://github.com/astorije/chai-immutable) adapter f
 Installation
 ------------
 
-**Note:** there is a bug in `chai-immutable` that prevents it from working with karma. I've created a fork that you can use until it's fixed: https://github.com/jakelazaroff/chai-immutable
-
 ```sh
 $ npm install karma-chai-immutable --save-dev
 ```
