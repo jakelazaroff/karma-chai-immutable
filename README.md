@@ -1,5 +1,7 @@
-karma-chai
+karma-chai-immutable
 ==========
+
+[![npm](https://img.shields.io/npm/dm/karma-chai-immutable.svg?maxAge=2592000)](https://www.npmjs.com/package/karma-chai-immutable)
 
 Makes the [chai-immutable](https://github.com/astorije/chai-immutable) adapter for [Chai](http://chaijs.com) and [Immutable](https://facebook.github.io/immutable-js/) available in [Karma](http://karma-runner.github.io)
 
