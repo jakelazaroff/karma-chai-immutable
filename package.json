@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-immutable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Chai and Immutable for Karma",
   "main": "index.js",
   "repository": {
